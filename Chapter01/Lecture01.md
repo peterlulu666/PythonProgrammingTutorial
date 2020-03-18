@@ -5,11 +5,13 @@
 The list item is enclosed within square bracket
 
 The item in the list can be any type
+
     - number
     - string
     - list
     
 List operator and function
+
     - x in lst
     - x not in lst
     - lst + lstB
@@ -47,12 +49,14 @@ number_str[2] = "5"
 
 The tuple item is enclosed in parentheses        
 
-The item in the tuple can be any type        
+The item in the tuple can be any type
+        
     - number
     - string
     - list
     
 Tuple operator and function
+
     - x in tple
     - x not in tple
     - tpleA + tpleB
