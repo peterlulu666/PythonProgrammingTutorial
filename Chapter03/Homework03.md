@@ -20,4 +20,4 @@
     what line length? 100
     line, triangle or square? triangle
  
-<img src="/triangle.png" alt="<img src="img/Condition.svg" alt="triangle" style="zoom:50%;" />" style="zoom:50%;" />
+<img src="triangle.png" alt="<img src="img/Condition.svg" alt="triangle" style="zoom:50%;" />" style="zoom:50%;" />
