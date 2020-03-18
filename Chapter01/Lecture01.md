@@ -30,7 +30,7 @@
         - note that append(), remove(), reverse(), sort() modify list but it will not return list
         
     
-4. List is mutable ans string is immutable
+4. List is mutable and string is immutable
 
     ```python
     number_list = [1, 2, 3]
