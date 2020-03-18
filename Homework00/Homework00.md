@@ -42,9 +42,11 @@
     manFromUncle = 'Napolean Solo'
     ```
 
-6.	Do textbook exercises 
+6.	Do textbook exercises
+ 
     1-1
     1-2 
     2-1 
     2-2 
+
 
