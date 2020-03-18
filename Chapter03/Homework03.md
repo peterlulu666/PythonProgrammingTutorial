@@ -8,11 +8,11 @@
 **Submit** a text file with the extension ‘.py’ with your answers to the assigned exercises. 
 
 1. Write Python code that does the following:
-    i. Assigns the values 3, 4 and 5 to the variables a, b and c, respectively.
-    ii. Write an if statement that prints ‘OK’ if a is less than b
-    iii. Write an if statement that prints ‘OK’ if c is less than b
-    iv. Write an if statement that prints ‘OK’ if the sum of a and b is equal to c
-    v. Write an if statement that prints ‘OK’ if the sum of a squared and b squared equals c squared.
+    1. Assigns the values 3, 4 and 5 to the variables a, b and c, respectively.
+    2. Write an if statement that prints ‘OK’ if a is less than b
+    3. Write an if statement that prints ‘OK’ if c is less than b
+    4. Write an if statement that prints ‘OK’ if the sum of a and b is equal to c
+    5. Write an if statement that prints ‘OK’ if the sum of a squared and b squared equals c squared.
 2. Repeat the previous problem with the additional requirement that ‘NOT OK’ is printed if the condition is false.
 3. Write a program that asks the user for a color, a line width, a line length and a shape. Assume that the user will specify a shape that is either a line, a triangle, or a square. Use turtle graphics to draw the shape that the user requests of the size, color, line width and line length that the user requests. For example, if these are the user choices for color, width, line length and shape, the blue triangle below would be correct graphical output
     what color? blue
