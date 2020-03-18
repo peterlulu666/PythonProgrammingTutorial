@@ -1,5 +1,6 @@
 # CS 100 2017F Homework 00
 **Due**: at the beginning of the **second class** of the semester. 
+
 **Do** all of the items below and submit a text file created with the IDLE editor (or other editor) with the extension ‘.py’ via Moodle. If you run into a problem, post to Moodle describing where you ran into trouble or email your instructor or classroom assistant, or ask your question during recitation hours. If you know the answer to someone’s question on Moodle, post a response. You get course credit for asking and answering questions in Moodle.
 
 1.	Log in to Moodle and post a brief message introducing yourself to the class (e.g., your interests, looking for a study partner, etc.). 
@@ -48,5 +49,4 @@
     - 1-2 
     - 2-1 
     - 2-2 
-
 
