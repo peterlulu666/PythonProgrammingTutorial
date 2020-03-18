@@ -1,5 +1,6 @@
 # CS 100 2017F Homework 01
 **Due**: at the beginning of the **third class** of the semester. 
+
 **Do** all of the items below and **submit** a text file created in the IDLE editor with the extension ‘.py’ via Moodle. If you run into a problem, post to Moodle describing where you ran into trouble or email your instructor or classroom assistant, or ask your question during office hours. If you know the answer to someone’s question on Moodle, post a response. You get course credit for asking and answering questions in Moodle.
 
 1. Read Chapter 10 (Lists) in the textbook. You may skip the sections Map, Filter and Reduce; and List Arguments. Read the first two sections of Chapter 11 (Tuples): Tuples Are Immutable and Tuple Assignment.
