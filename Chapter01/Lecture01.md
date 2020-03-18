@@ -50,11 +50,37 @@ The tuple item is enclosed in parentheses
 The item in the tuple can be any type        
     - number
     - string
-    - list        
+    - list
+    
+Tuple operator and function
+    - x in tple
+    - x not in tple
+    - tpleA + tpleB
+    - tple * n
+    - tple[i]
+    - len(tple)
+    - min(tple)
+    - max(tple)
+    
+Tuple is immutable                
 
-## Object and class
+## Object and class        
 
-## Python standard library
+In Python, every value is stored in memory as an object. Every object belongs to a class. The object's class determines what operations can be performed on it
+
+## Python standard library        
+
+A module must be explicitly imported into the execution environment
+
+```python
+import <module>
+```        
+
+
+
+
+
+
 
 
 
