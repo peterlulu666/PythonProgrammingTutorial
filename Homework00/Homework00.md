@@ -7,8 +7,8 @@
 3.	Download Python 3.6 from python.org and install it on your home computer.
 4.	Read Chapter 1 and Chapter 2 of the textbook.
 5.	In the Python editor IDLE, create and save a Python file that
-    a.	is named, if your name is Harry Houdini, for example, HW0_HarryHoudini.py and
-begins with a comment containing your name, class and section, the date and number of the homework assignment. Use either a block comment or one-line comment style. E.g.
+    
+    a.	is named, if your name is Harry Houdini, for example, HW0_HarryHoudini.py and begins with a comment containing your name, class and section, the date and number of the homework assignment. Use either a block comment or one-line comment style. E.g.
  
     """ 
     Harry Houdini
@@ -31,10 +31,10 @@ begins with a comment containing your name, class and section, the date and numb
     ```
 
     c.	has three assignment lines, each of which creates a variable (object) with a meaningful names and assigns it a float value. E.g., 
-```
-# Exercise 5c
-height = 7.63
-```
+    ```
+    # Exercise 5c
+    height = 7.63
+    ```
     d.	has three assignment lines, each of which creates a string variable with a meaningful name. E.g., 
     
     ```
@@ -42,7 +42,7 @@ height = 7.63
     manFromUncle = 'Napolean Solo'
     ```
 
-    6.	Do textbook exercises 
+6.	Do textbook exercises 
     1-1
     1-2 
     2-1 
