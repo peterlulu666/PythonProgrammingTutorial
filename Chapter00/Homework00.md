@@ -22,11 +22,9 @@
     or
 
     ```
-    """
     # Harry Houdini
-    #CS 100 2013F Section 01
+    # CS 100 2013F Section 01
     # HW 00, Sept 5, 2013
-    """
     ```
 
     b.	has three assignment lines, each of which creates a variable (object) with a meaningful names and assigns it an int value. E.g., 
