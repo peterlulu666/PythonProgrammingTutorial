@@ -12,17 +12,21 @@
     a.	is named, if your name is Harry Houdini, for example, HW0_HarryHoudini.py and begins with a comment containing your name, class and section, the date and number of the homework assignment. Use either a block comment or one-line comment style. E.g.
  
     ``` 
+    """
     Harry Houdini
     CS 100 2013F Section 01
-     HW 0, Sept 5, 2013
+    HW 0, Sept 5, 2013
+    """
     ```
 
     or
 
     ```
+    """
     # Harry Houdini
     #CS 100 2013F Section 01
     # HW 00, Sept 5, 2013
+    """
     ```
 
     b.	has three assignment lines, each of which creates a variable (object) with a meaningful names and assigns it an int value. E.g., 
