@@ -20,7 +20,10 @@ Write a `for` loop that iterates over all of the integers in the range 0 through
 Problem 3.
 
 Consider the strings created by these assignment statements
+
 `horton = "A person's a person, no matter how small."`
+
 `vowels = "aeiouAEIOU"`
+
 Write a `for` loop that prints out all the vowels in horton in the order they appear in horton.
 
