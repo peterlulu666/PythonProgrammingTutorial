@@ -16,5 +16,18 @@ The function `input()` treats anything the user enters as a string
 
 ## Type conversion function        
 
+- `int()`
+- `float()`
+- `str()`
 
+## if elif and else statement
+
+```python
+if <condition>:
+    <indented code black>
+elif <condition>:
+    <indented code black>
+else:
+    <indented code black>
+```
 
