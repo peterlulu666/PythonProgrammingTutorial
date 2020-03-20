@@ -34,12 +34,17 @@ Write a function named `twoWordsV2` that has the same specification as Problem 1
 
 Since only the implementation has changed, and not the specification, for a given input the output should be identical to the output in Problem 1.
 
-Problem 3.
+## Problem 3.
+
 Do problem 5.29 in the textbook. (This problem is the same in editions 1 and 2.)
 
-Problem 4.
+## Problem 4.
+
 Do problem 5.33 in the textbook. (This problem is the same in editions 1 and 2.)
 
-Problem 5.
+## Problem 5.
+
 Write a function named `enterNewPassword`. This function takes no parameters. It prompts the user to enter a password until the entered password has 8-15 characters, including at least one digit. Tell the user whenever a password fails one or both of these tests
+
+
 
