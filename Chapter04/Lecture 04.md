@@ -1,4 +1,13 @@
 # Lecture 04
+ 
+<details><summary>Lecture 04</summary>
+<p>
+
+* **[The for loop](#the-for-loop)**<br/>      
+* **[The range](#the-range)**<br />                      
+        
+</p>
+</details>
 
 ## The for loop
 

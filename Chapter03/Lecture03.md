@@ -1,5 +1,15 @@
 # Lecture 03
 
+<details><summary>Lecture 04</summary>
+<p>
+
+* **[Python program](#python-program)**<br/>      
+* **[Built-in function `print()`](#built-in-ifunction-print())**<br />                      
+        
+</p>
+</details>
+
+
 ## Python program
 
 A Python program is a sequence of Python statement        
