@@ -1,5 +1,16 @@
 # Lecture 02
 
+<details><summary>Lecture 03</summary>
+<p>
+
+* **[Turtle graphics](#turtle-graphics)**<br/>      
+* **[Objects and classes](#objects-and-classes)**<br />
+* **[Python standard library](#python-standard-library)**<br/>      
+* **[Turtle function](#turtle-function)**<br />
+                               
+</p>
+</details>
+
 ## Turtle graphics      
 
 1. Turtle graphics can draw things on a coordinate plane
@@ -22,7 +33,7 @@ variableName = moduleName.ClassName
     shelly = turtle.Turtle()
     ```
 
-### Turtle graphics
+### Turtle function
 
 Moving a turtle
 
