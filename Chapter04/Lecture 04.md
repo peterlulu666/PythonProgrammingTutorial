@@ -15,3 +15,11 @@ for varName in sequence:
     codeBlock
 ```
 
+## The range
+
+- starting from i
+- ending at n - 1
+- step size is c
+
+`range(i, n, c)`
+
