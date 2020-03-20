@@ -4,7 +4,7 @@
 <p>
 
 * **[Python program](#python-program)**<br/>      
-* **[Built-in function `print()`](#built-function-input)**<br />                      
+* **[Built-in function `print()`](#built-in-function-input)**<br />                      
         
 </p>
 </details>
