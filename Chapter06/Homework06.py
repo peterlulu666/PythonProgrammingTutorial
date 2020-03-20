@@ -20,4 +20,21 @@ def twoWords(length, firstLetter):
     return twoWordList
 
 
-print(twoWords(4, "B"))
+# print(twoWords(4, "B"))
+
+
+def twoWordsV2(length, firstLetter):
+    twoWordList = []
+    while len(twoWordList) < 1:
+        word = input("A " + str(length) + "-letter word please ")
+        if len(word) == length:
+            twoWordList.append(word)
+
+    while len(twoWordList) < 2:
+        word = input("A word beginning with " + firstLetter + " please ")
+        if word.upper()[0] == firstLetter.upper():
+            twoWordList.append(word)
+    return twoWordList
+
+
+print(twoWordsV2(4, "B"))
