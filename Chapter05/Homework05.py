@@ -17,13 +17,21 @@ strList = ["computer", "science", "student"]
 letters = "Et"
 print(hasFinalLetter(strList, letters))
 
+
 def isDivisible(maxInt, twoInts):
     """isDivisible
 
     :param maxInt: an integer
     :param twoInts: a tuple of two integers
-    :return: a list of the integers in the range from 0 to maxInt that are divisible ny both integer in twoInts
+    :return: a list of the integers in the range from 0 to maxInt that are divisible by both integer in twoInts
     """
-    maxInt = int()
-    twoInts = tuple()
+    numberList = []
+    for number in range(maxInt):
+        if number % twoInts[0] == 0 and number % twoInts[1] == 0:
+            numberList.append(number)
+    return numberList
 
+
+maxInt = 100
+twoInts = (2, 5)
+print(isDivisible(maxInt, twoInts))
