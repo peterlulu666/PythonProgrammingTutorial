@@ -1,6 +1,6 @@
 # Lecture 0
 
-<details><summary>Lecture 03</summary>
+<details><summary>Lecture 00</summary>
 <p>
 
 * **[Python data type](#python-data-type)**<br/>      

@@ -1,6 +1,6 @@
 # Lecture 01
 
-<details><summary>Lecture 03</summary>
+<details><summary>Lecture 01</summary>
 <p>
 
 * **[List](#list)**<br/>      
