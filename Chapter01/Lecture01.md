@@ -1,5 +1,16 @@
 # Lecture 01
 
+<details><summary>Lecture 03</summary>
+<p>
+
+* **[List](#list)**<br/>      
+* **[Tuples](#tuples)**<br />
+* **[Object and class](#object-and-class)**<br/>      
+* **[Python standard library](#python-standard-library)**<br />
+                               
+</p>
+</details>
+
 ## List
 
 1. The list item is enclosed within square bracket
