@@ -8,8 +8,8 @@ Write a function named `twoWords` that gets and returns two words from a user. T
 
 The function `twoWords` takes two parameters:
 
-i.	an integer, `length`, that is the length of the first word and
-ii.	a character, `firstLetter`, that is the first letter of the second word. The second word may begin with either an upper or lower case instance of `firstLetter`.
+    1. an integer, `length`, that is the length of the first word and
+    2. a character, `firstLetter`, that is the first letter of the second word. The second word may begin with either an upper or lower case instance of `firstLetter`.
 
 The function `twoWords` should return the two words in a list.
 
