@@ -37,4 +37,18 @@ def twoWordsV2(length, firstLetter):
     return twoWordList
 
 
-print(twoWordsV2(4, "B"))
+# print(twoWordsV2(4, "B"))
+
+
+def enterNewPassword():
+    count = 0
+    password = input("Enter a password")
+    while True:
+        # Including at least one digit
+        if (8 <= len(password) <= 15) and any(character.isdigit() for character in password):
+            print("Valid password")
+            break
+        password = input("Enter a password")
+
+
+enterNewPassword()
