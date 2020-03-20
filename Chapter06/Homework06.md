@@ -2,7 +2,7 @@
 
 ## Problem 1.
 
-This problem provides practice using a while True loop.
+This problem provides practice using a `while` `True` loop.
  
 Write a function named `twoWords` that gets and returns two words from a user. The first word is of a specified length, and the second word begins with a specified letter.
 
