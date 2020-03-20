@@ -1,11 +1,11 @@
 # Lecture 05
 
 ## Contents
-<details><summary>Language</summary>
+<details><summary>Lecture 05</summary>
 <p>
 
 * **[function](#function)**<br/>      
-* **[Python docstring](#Python docstringn)**<br />
+* **[Python docstring](#"Python docstringn")**<br />
                 
         
 </p>
