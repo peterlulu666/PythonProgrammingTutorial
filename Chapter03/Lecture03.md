@@ -4,8 +4,11 @@
 <p>
 
 * **[Python program](#python-program)**<br/>      
-* **[Built-in function `print()`](#built-in-function-input)**<br />                      
-        
+* **[Built-in function `print()`](#built-in-function-input)**<br />
+* **[Built-in function `input()`](#built-in-function-input)**<br/>      
+* **[Type conversion function](#type-conversion-function)**<br />
+* **[if elif and else statement](#if-elif-and-else-statement)**<br />                      
+                               
 </p>
 </details>
 
@@ -40,4 +43,9 @@ elif <condition>:
 else:
     <indented code black>
 ```
+
+
+
+
+
 
