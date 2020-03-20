@@ -1,6 +1,6 @@
 # Lecture 02
 
-<details><summary>Lecture 03</summary>
+<details><summary>Lecture 02</summary>
 <p>
 
 * **[Turtle graphics](#turtle-graphics)**<br/>      
