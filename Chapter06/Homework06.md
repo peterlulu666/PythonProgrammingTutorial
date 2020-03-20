@@ -13,7 +13,7 @@ Write a function named `twoWords` that gets and returns two words from a user. T
 
 2. The function `twoWords` should return the two words in a list.
 
-3. Use a `while` True loop and a `break` statement in the implementation of `twoWords`.
+3. Use a `while` `True` loop and a `break` statement in the implementation of `twoWords`.
 
 The following is an example of the execution of `twoWords`:
 
