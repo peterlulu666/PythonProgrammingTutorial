@@ -4,7 +4,7 @@
 <p>
 
 * **[Python program](#python-program)**<br/>      
-* **[Built-in function `print()`](#built-in-ifunction-print)**<br />                      
+* **[Built-in function `print()`](#built-function-input)**<br />                      
         
 </p>
 </details>
@@ -20,7 +20,7 @@ A Python program is a sequence of Python statement
 - the quote marks around the string are omitted       
 - a print statement ends its output with a newline
 
-## Built-function `input()`
+## Built-in function `input()`
 
 The function `input()` treats anything the user enters as a string
 
