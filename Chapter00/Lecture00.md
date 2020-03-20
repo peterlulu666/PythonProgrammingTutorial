@@ -1,5 +1,16 @@
 # Lecture 0
 
+<details><summary>Lecture 03</summary>
+<p>
+
+* **[Python data type](#python-data-type)**<br/>      
+* **[About the course](#about-the-course)**<br />
+* **[Our tool](#our-tool)**<br/>      
+* **[Computer language and natural language](#computer-language-and-natural-language)**<br />
+                               
+</p>
+</details>
+
 ## Python data type
 
 - Expressions, Variables, and Assignment
