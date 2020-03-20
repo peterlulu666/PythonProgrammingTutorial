@@ -1,6 +1,6 @@
 # Lecture 03
 
-<details><summary>Lecture 04</summary>
+<details><summary>Lecture 03</summary>
 <p>
 
 * **[Python program](#python-program)**<br/>      
