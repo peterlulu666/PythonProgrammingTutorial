@@ -41,13 +41,17 @@ def twoWordsV2(length, firstLetter):
 
 
 def enterNewPassword():
-    count = 0
     password = input("Enter a password")
+    count = 1
     while True:
         # Including at least one digit
         if (8 <= len(password) <= 15) and any(character.isdigit() for character in password):
             print("Valid password")
+            print("tried " + str(count) + " times")
             break
+        else:
+            print("Fail")
+            count = count + 1
         password = input("Enter a password")
 
 
