@@ -1,5 +1,23 @@
 # Midterm 2016
 
+## Question 12
+
+Write a function named bigCount that counts how many elements in a list of numbers are greater than a threshold value and returns that count.
+
+
+The function bigCount takes two parameters:
+- numList, a list of numbers
+- threshold, in integer
+
+For example, the following would be correct output:
+
+```
+>>> someNums = [-5, 6, 3, 0, 7]
+>>> print(bigCount(someNums, 2))
+>>> 3
+```
+
+
 ## Question 13
 
 Write a function named getDate. The function getDate takes one parameter:
@@ -21,5 +39,7 @@ February 15 is a great day!
 >>> print(today)
 February 15
 ```
+
+
 
 
