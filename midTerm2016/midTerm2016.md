@@ -13,7 +13,7 @@ The function getDate should produce two kinds of output. It should
 
 For example, the following would be correct input and output:
 
-```
+```shell script
 >>> today = getDate('is a great day!')
 What month is it? February
 What day is it? 15
