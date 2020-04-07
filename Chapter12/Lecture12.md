@@ -3,10 +3,7 @@
 <details><summary>Lecture 12</summary>
 <p>
 
-* **[Turtle graphics](#turtle-graphics)**<br/>      
-* **[Objects and classes](#objects-and-classes)**<br />
-* **[Python standard library](#python-standard-library)**<br/>      
-* **[Turtle function](#turtle-function)**<br />
+* **[Class](#Class)**<br/>      
                                
 </p>
 </details>
