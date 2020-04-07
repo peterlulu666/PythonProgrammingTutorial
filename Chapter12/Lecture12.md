@@ -19,7 +19,7 @@
     - colon
     - docstring
     - constructor
-        + __init__
+        + `__init__`
         + self refers to the object created     
         + parameter          
 ```python
